@@ -2,10 +2,10 @@ const connection = require('../database/connection');
 
 module.exports = {
     async create(request, response) {
-        const { ong_id } = request.body;
+        const { id } = request.body;
 
         const ong = await connection('ongs')
-            .where('id', ong_id)
+            .where('id', id)
             .select('name')
             .first();
 
