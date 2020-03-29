@@ -21,8 +21,8 @@ uma maneira de ONGs divulgarem suas causas e possibilita que pessoas entrem em c
 
 # Tecnologias
 <p align="justify">
-A utilização das tecnologias (Node.js, React JS e React Native) baseadas em JavaScript, uma das linguagem de programação mais modernas atualmente, consolidou a ótima experiência do evento. Tendo em vista a eficiência e crescente adoção dessa
-*Stack* no mercado de trabalho, é de extrema importância que programadores a utilizem e consigam se inserir no cenário competitivo.
+A utilização das tecnologias ([Node.js](https://nodejs.org/en/), [React JS](https://pt-br.reactjs.org/) e [React Native](https://reactnative.dev/)) baseadas em JavaScript, uma das linguagem de programação mais modernas e mais utilizadas  atualmente[~](https://githut.info/), consolidou a ótima experiência do evento. Tendo em vista a eficiência e crescente adoção dessa
+stack no mercado de trabalho, é de extrema importância que programadores a utilizem e consigam se inserir no cenário competitivo.
 de trabalho. Empresas como
 </p>
 
