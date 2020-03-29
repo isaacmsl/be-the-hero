@@ -1,5 +1,3 @@
-<header>
-
 <p align="center">
   <img src="/frontend/src/assets/logo.svg">
 </p>
@@ -10,20 +8,16 @@
 </p>
 
 <p align="justify">
-Entre os dias 23 e 27 de março de 2020, a [Rocketseat](https://rocketseat.com.br/) desenvolveu mais uma edição do **Semana Omnistack**, evento com objetivo de auxiliar educacionalmente, programadores. Na sua 11ª edição, a Semana Omnistack apresentava o desenvolvido de uma 
-aplicação contemplando a construção de API (backend em **Node.js**), Aplicação frontend (**React JS**) e Aplicação Mobile (**React Native**). E essas aplicações seriam baseadas em uma ideia prospota pela Rocketseat: "Be The Hero". O projeto, resumidamente, criar
+Entre os dias 23 e 27 de março de 2020, a <b><a href="https://rocketseat.com.br/">Rocketseat</a></b> desenvolveu mais uma edição do <b>Semana Omnistack</b>, evento com objetivo de auxiliar educacionalmente, programadores. Na sua 11ª edição, a Semana Omnistack apresentava o desenvolvido de uma 
+aplicação contemplando a construção de API (backend em <b>Node.js</b>), Aplicação frontend (<b>React JS</b>) e Aplicação Mobile (<b>React Native</b>). E essas aplicações seriam baseadas em uma ideia prospota pela Rocketseat: "Be The Hero". O projeto, resumidamente, criar
 uma maneira de ONGs divulgarem suas causas e possibilita que pessoas entrem em contato com tal ONG para ajudarem financeiramente ("The Heroes").
 </p>
 
-</header>
-
-<main>
-
 # Tecnologias
 <p align="justify">
-A utilização das tecnologias ([Node.js](https://nodejs.org/en/), [React JS](https://pt-br.reactjs.org/) e [React Native](https://reactnative.dev/)) baseadas em JavaScript, uma das linguagem de programação mais modernas e mais utilizadas  atualmente[~](https://githut.info/), consolidou a ótima experiência do evento. Tendo em vista a eficiência e crescente adoção dessa
+A utilização das tecnologias <b><a href="https://nodejs.org/en/">Node JS</a></b>, <b><a href="https://pt-br.reactjs.org/">React JS</a></b> e <b><a href="https://reactnative.dev/">React Native</a></b> baseadas em JavaScript, uma das linguagem de programação mais modernas e mais utilizadas  atualmente <a href="https://githut.info/">(Ranking Github)</a>, consolidou a ótima experiência do evento. Tendo em vista a eficiência e crescente adoção dessa
 stack no mercado de trabalho, é de extrema importância que programadores a utilizem e consigam se inserir no cenário competitivo.
-de trabalho. Empresas como
+de trabalho.
 </p>
 
 <p align="justify">
@@ -57,5 +51,3 @@ Desenvolvimento
 <p align="justify">
 Deploy?
 </p>
-
-</main>
