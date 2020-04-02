@@ -8,20 +8,19 @@
 </p>
 
 <p align="justify">
-Entre os dias 23 e 27 de março de 2020, a <b><a href="https://rocketseat.com.br/">Rocketseat</a></b> desenvolveu mais uma edição do <b>Semana Omnistack</b>, evento com objetivo de auxiliar educacionalmente, programadores. Na sua 11ª edição, a Semana Omnistack apresentava o desenvolvido de uma 
+Entre os dias 23 e 27 de março de 2020, a <b><a href="https://rocketseat.com.br/">Rocketseat</a></b> desenvolveu mais uma edição da <b>Semana Omnistack</b>, evento com objetivo de auxiliar educacionalmente, programadores. Na sua 11ª edição, a Semana Omnistack apresentava o desenvolvimento de uma 
 aplicação contemplando a construção de API (backend em <b>Node.js</b>), Aplicação frontend (<b>React JS</b>) e Aplicação Mobile (<b>React Native</b>). E essas aplicações seriam baseadas em uma ideia prospota pela Rocketseat: "Be The Hero". O projeto, resumidamente, criar
 uma maneira de ONGs divulgarem suas causas e possibilita que pessoas entrem em contato com tal ONG para ajudarem financeiramente ("The Heroes").
 </p>
 
-# Tecnologias
+<h1>Tecnologias</h1>
 <p align="justify">
-A utilização das tecnologias <b><a href="https://nodejs.org/en/">Node JS</a></b>, <b><a href="https://pt-br.reactjs.org/">React JS</a></b> e <b><a href="https://reactnative.dev/">React Native</a></b> baseadas em JavaScript, uma das linguagem de programação mais modernas e mais utilizadas  atualmente <a href="https://githut.info/">(Ranking Github)</a>, consolidou a ótima experiência do evento. Tendo em vista a eficiência e crescente adoção dessa
-stack no mercado de trabalho, é de extrema importância que programadores a utilizem e consigam se inserir no cenário competitivo.
-de trabalho.
+A utilização das tecnologias <b><a href="https://nodejs.org/en/">Node JS</a></b>, <b><a href="https://pt-br.reactjs.org/">React JS</a></b> e <b><a href="https://reactnative.dev/">React Native</a></b> baseadas em JavaScript, uma das linguagem de programação mais modernas e mais utilizadas  atualmente <a href="https://githut.info/">(Ranking Github, mar/2020)</a>, consolidou a ótima experiência do evento. Tendo em vista a eficiência e crescente adoção dessa
+stack no mercado de trabalho, é de extrema importância que programadores a utilizem e consigam se inserir no cenário competitivo de trabalho.
 </p>
 
 <p align="justify">
-Desenvolvimento
+<h1>Desenvolvimento</h1>
  <ul>
   <li>
     Construção de API em Node.js para o backend
@@ -46,7 +45,7 @@ Desenvolvimento
  </ul>
 </p>
 
-# Resultados
+<h1>Resultados</h1>
 
 <p align="justify">
 Deploy?
